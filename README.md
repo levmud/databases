@@ -1,2 +1,9 @@
-# databases
-Database homework
+# Database homework
+
+Вариант: e7ed4bb8-3301-4a81-869c-8428ff587d39
+
+- preprocessing.sql - заполнение пропусков в исходной таблице
+- tables.sql - приведение к 3НФ, создание внешних связей и индексов
+- additional.sql - дополнительные задания (1-5)
+- e7ed4bb8-3301-4a81-869c-8428ff587d39_2.zip - архив с дампом в формате tar
+- e7ed4bb8-3301-4a81-869c-8428ff587d39.csv - исходные данные
